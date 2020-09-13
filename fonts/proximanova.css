@@ -1,0 +1,23 @@
+/* @font-face {
+  font-family: "ProximaNova";
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Montserrat-Bold.ttf") format("truetype");
+} */
+
+@font-face {
+  font-family: "BebasBold";
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/BebasBold.ttf") format("truetype");
+}
