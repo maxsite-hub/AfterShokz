@@ -1,2 +1,0 @@
-# AfterShokz
-AfterShokz
