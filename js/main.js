@@ -1,16 +1,3 @@
-// $(function () {
-//     $('.reviews__slider').slick({
-//         infinite: true,
-//         speed: 300,
-//         slidesToShow: 1,
-//         centerMode: true,
-//         variableWidth: true,
-//         autoplay: true,
-//         autoplaySpeed: 3000,
-//         prevArrow: '<img class="slider-studio_left" <img src="img/BTN_arrow_back.svg" alt="">',
-//         nextArrow: '<img class="slider-studio_right" src="img/BTN_arrow_forward.svg" alt="">',
-//     });
-// })
 
 
 function CountBox() {
